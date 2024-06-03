@@ -8,5 +8,5 @@ You can click the Preview link to take a look at your changes.
 --->
 # Languages and Tools:
  <p align ="center">
-   <img src ="https://icons8.com/icon/TpULddJc4gTh/c%2B%2B"/_>
+   <a target="_blank" href="https://icons8.com/icon/40669/c%2B%2B">C</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
  </p>
