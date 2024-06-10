@@ -12,19 +12,7 @@ You can click the Preview link to take a look at your changes.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Icon Thẳng Hàng và Cách Đều</title>
-    <style>
-        .image-container {
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-            height: 200px; /* Chiều cao container để căn giữa theo chiều dọc */
-        }
-
-        .image-container img {
-            margin: 0 10px; /* Khoảng cách giữa các ảnh */
-        }
-    </style>
+    
 </head>
 <body>
     <div class="image-container">
